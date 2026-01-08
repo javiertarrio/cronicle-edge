@@ -11,3 +11,4 @@ node.napi.node
 /nodejs
 bench.js
 /GEMINI.md
+/.gemini
